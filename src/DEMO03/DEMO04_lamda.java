@@ -1,4 +1,4 @@
-package main;
+package DEMO03;
 
 public class DEMO04_lamda {
 
